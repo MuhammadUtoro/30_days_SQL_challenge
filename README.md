@@ -4,7 +4,6 @@ This repository contains my solutions for the 30 Days SQL challenge the SQL chal
 
 ## Source
 
-Challenge: 30-Day SQL Challenge - Day 02
 https://github.com/sdw-online/30-Day-SQL-Challenge/blob/main/day-02/README.md
 
 ## Dataset
