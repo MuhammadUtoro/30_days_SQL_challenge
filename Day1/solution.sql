@@ -1,4 +1,4 @@
--- This is the solution for my Practice
+-- Day 1 of 30 of SQL Challenge
 -- 1. Select just the applicant_name, credit_score, and requested_amount
 -- columns for all applications. Don't use SELECT * - pick only the three
 -- columns Nia needs
