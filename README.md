@@ -1,6 +1,6 @@
-# Day 02 - Loan Applications Analysis
+# 30 Days SQL Challenge
 
-This repository contains my solutions for Day 02 of the SQL challenge based on the 30-Day SQL Challenge by SDW Online.
+This repository contains my solutions for the 30 Days SQL challenge the SQL challenge based on the 30-Day SQL Challenge by SDW Online.
 
 ## Source
 
